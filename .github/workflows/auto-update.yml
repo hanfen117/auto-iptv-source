@@ -1,0 +1,24 @@
+name: IPTV Auto Update
+on:
+  schedule:
+    - cron: "0 */6 * * *" # UTC时区，每6小时自动测速更新
+  workflow_dispatch: # 支持手动一键运行
+jobs:
+  update_source:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: 安装Python依赖
+        run: pip install requests
+      - name: 执行测速更新脚本
+        run: python3 update.py
+      - name: 提交更新后的tv.m3u
+        run: |
+          git config --global user.name "IPTV-Bot"
+          git config --global user.email "bot@github.com"
+          git add tv.m3u
+          git diff --quiet && git diff --staged --quiet || git commit -m "自动测速更新直播源 $(date '+%Y-%m-%d %H:%M')"
+          git push
