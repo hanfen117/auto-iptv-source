@@ -7,8 +7,8 @@ from concurrent.futures import ThreadPoolExecutor
 # 配置参数
 SOURCE_FILE = "sources.txt"
 OUTPUT_M3U = "tv.m3u"
-TIMEOUT = 4
-THREAD_NUM = 15
+TIMEOUT = 8
+THREAD_NUM = 8
 
 # 读取本地频道源（兼容 名称,链接 单行格式）
 def load_sources():
