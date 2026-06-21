@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 拉取仓库代码
-        uses: actions/checkout@692973e3d937129bcbf40652ea952381f3d91047
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936cf1ec
         with:
           fetch-depth: 0
       - name: 安装Python依赖
