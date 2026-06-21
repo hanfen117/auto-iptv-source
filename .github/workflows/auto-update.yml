@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 拉取代码
-        uses: actions/checkout@v4
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936cf1ec
         with:
           fetch-depth: 0
       - name: 安装Python依赖
@@ -20,5 +20,5 @@ jobs:
           git config --global user.name "IPTV-Bot"
           git config --global user.email "bot@github.com"
           git add tv.m3u
-          git commit -m "自动更新源" || echo "无更新内容"
+          git commit -m "自动测速更新直播源 $(date '+%Y-%m-%d %H:%M')" || echo "无更新内容，跳过提交"
           git push
