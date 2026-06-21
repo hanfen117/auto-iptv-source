@@ -16,47 +16,56 @@ def load_sources():
     with open(SOURCE_FILE, "r", encoding="utf-8") as f:
         for line in f.readlines():
             line = line.strip()
+            # 跳过空行和注释行
             if not line or line.startswith("#"):
                 continue
+            # 按第一个逗号分割频道名和链接
             if "," in line:
                 name, url = line.split(",", 1)
-                channel_list.append((name, url))
+                channel_list.append((name.strip(), url.strip()))
     return channel_list
 
-# 测速过滤失效链接
+# 单链接测速函数
 def test_stream(item):
     name, url = item
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
     try:
         start = time.time()
-        resp = requests.head(url, timeout=TIMEOUT)
-        delay = round((time.time() - start)*1000)
+        resp = requests.head(url, headers=headers, timeout=TIMEOUT, allow_redirects=True)
+        delay = round((time.time() - start) * 1000)
+        # 200/302 视为可用，延迟低于1000ms
         if resp.status_code in (200, 302) and delay < 1000:
             return (name, url, delay)
     except Exception:
-        return None
+        pass
+    return None
 
 def main():
+    # 读取全部频道
     all_channels = load_sources()
     print(f"读取原始频道总数：{len(all_channels)}")
 
-    # 并发测速
-    valid_list = []
+    valid_channels = []
+    # 多线程并发测速
     with ThreadPoolExecutor(max_workers=THREAD_NUM) as pool:
-        result = pool.map(test_stream, all_channels)
-        for res in result:
+        results = pool.map(test_stream, all_channels)
+        for res in results:
             if res:
-                valid_list.append(res)
-    print(f"测速后可用频道：{len(valid_list)}")
+                valid_channels.append(res)
 
-    # 生成标准M3U文件
-    m3u_header = "#EXTM3U\n"
-    m3u_content = m3u_header
-    for name, url, delay in valid_list:
+    print(f"测速后可用频道：{len(valid_channels)}")
+
+    # 生成标准m3u播放列表
+    m3u_content = "#EXTM3U\n"
+    for name, url, delay in valid_channels:
         m3u_content += f'#EXTINF:-1 tvg-name="{name}",{name}\n{url}\n'
-    
+
+    # 写入文件
     with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
         f.write(m3u_content)
-    print("tv.m3u 文件生成完成")
+    print(f"{OUTPUT_M3U} 文件生成完成")
 
 if __name__ == "__main__":
     main()
