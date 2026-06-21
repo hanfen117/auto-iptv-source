@@ -7,18 +7,18 @@ jobs:
   update_source:
     runs-on: ubuntu-latest
     steps:
-      - name: 拉取仓库代码
-        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936cf1ec
+      - name: 拉取代码
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
       - name: 安装Python依赖
         run: pip install requests
-      - name: 执行测速更新脚本
+      - name: 运行测速脚本
         run: python3 update.py
-      - name: 提交更新后的tv.m3u
+      - name: 提交更新文件
         run: |
           git config --global user.name "IPTV-Bot"
           git config --global user.email "bot@github.com"
           git add tv.m3u
-          git diff --quiet && git diff --staged --quiet || git commit -m "自动测速更新直播源 $(date '+%Y-%m-%d %H:%M')"
+          git commit -m "自动更新源" || echo "无更新内容"
           git push
