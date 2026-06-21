@@ -1,14 +1,14 @@
 name: IPTV Auto Update
 on:
   schedule:
-    - cron: "0 */6 * * *" # UTC时区，每6小时自动测速更新
-  workflow_dispatch: # 支持手动一键运行
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 jobs:
   update_source:
     runs-on: ubuntu-latest
     steps:
       - name: 拉取仓库代码
-        uses: actions/checkout@v4
+        uses: actions/checkout@692973e3d937129bcbf40652ea952381f3d91047
         with:
           fetch-depth: 0
       - name: 安装Python依赖
