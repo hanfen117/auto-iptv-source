@@ -1,4 +1,4 @@
-#genre# 
+
 广东珠江2,http://gmxw.7766.org:808/hls/83/index.m3u8
 广东珠江3,http://www.3344.uk:8888/rtp/239.77.0.3:5146
 广东珠江6,http://www.3344.uk:8888/rtp/239.77.1.94:5146
@@ -32,13 +32,13 @@
 大湾区卫视高清,http://www.3344.uk:8888/rtp/239.77.0.215:5146
 广东影视,http://www.3344.uk:8888/rtp/239.77.0.11:5146
 广东影视高清,http://www.3344.uk:8888/rtp/239.77.0.217:5146
-#genre# 
+
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-#genre# 
+
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
 凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
 凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
@@ -70,7 +70,7 @@ HOY 76,http://pull-vivek.speedws.com/live/aaahoy76.flv
 HOY 77,http://pull-vivek.speedws.com/live/aaahoy77.flv
 HOY 78,http://pull-vivek.speedws.com/live/aaahoy78.flv
 ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
-#genre# 
+
 凤凰资讯,https://mgev.188766.xyz/?migutoken=755d342b1cf1e149a806ed924a5102a1&id=fhzx&pp=1
 凤凰中文,https://mgev.188766.xyz/?migutoken=7db8e8e2d47f47f7269cc4aeabf31bbb&id=fhzw&pp=1
 凤凰香港,https://mgev.188766.xyz/?migutoken=89742174bed93a54351e9cac4ee094ff&id=fhhk&pp=1
@@ -102,7 +102,7 @@ Now Sports 精選,http://hls.168.us.kg/u/630/master.m3u8
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 Now新闻,http://cdn.163189.xyz/163189/now
-#genre# 
+
 无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
@@ -113,7 +113,7 @@ Now新闻,http://cdn.163189.xyz/163189/now
 莲花卫视,http://8.138.7.223/tv/lotustv.m3u8
 逃学威龙2,https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#genre# 
+
 CCTV2财经,http://tpc.x3322.net:9901/tsfile/live/0002_1.m3u8
 CCTV3综艺,http://tpc.x3322.net:9901/tsfile/live/0003_1.m3u8
 CCTV4国际,http://tpc.x3322.net:9901/tsfile/live/0004_1.m3u8
@@ -128,7 +128,7 @@ CCTV13新闻,http://tpc.x3322.net:9901/tsfile/live/0013_1.m3u8
 CCTV14少儿,http://tpc.x3322.net:9901/tsfile/live/0014_1.m3u8
 CCTV15音乐,http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
 CCTV5+体育赛事,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
-#genre#
+
 东南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMTkvbGl2ZS5tM3U4
 浙江卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMjMvbGl2ZS5tM3U4
 东方卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC40MC4zOS4yNDY6MzUyL25ld2xpdmUvbGl2ZS9obHMvMjAvbGl2ZS5tM3U4
