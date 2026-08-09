@@ -1,45 +1,43 @@
 name: IPTV Auto Update
-# 触发条件
 on:
   schedule:
-    # 每6小时执行一次 UTC时间，对应国内+8小时
     - cron: "0 */6 * * *"
-  workflow_dispatch: # 支持手动点击运行
+  workflow_dispatch:
 
 jobs:
   update_source:
     runs-on: ubuntu-latest
     steps:
       - name: 拉取仓库代码
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5 # 升级v5，原生支持Node24
         with:
           fetch-depth: 0
-      
+
       - name: 设置Python环境
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6 # 升级v6，兼容Node24
         with:
           python-version: "3.11"
-          cache: "pip" # 缓存依赖加速
-      
+          cache: "pip" # 现在有requirements.txt，缓存不会报错
+
       - name: 安装依赖
-        run: pip install requests -i https://pypi.tuna.tsinghua.edu.cn/simple
-      
+        run: pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
       - name: 执行测速脚本
         run: python3 update.py
-      
-      - name: 上传测速日志(可在任务页面下载)
+
+      - name: 上传测速日志
         uses: actions/upload-artifact@v4
         with:
           name: speed-log
           path: speed_log.txt
-      
-      - name: 配置Git提交信息
+
+      - name: Git配置
         run: |
           git config --global user.name "IPTV-Bot"
           git config --global user.email "bot@github.com"
-      
-      - name: 提交更新后的tv.m3u
+
+      - name: 提交更新
         run: |
           git add tv.m3u speed_log.txt
-          git commit -m "自动测速更新直播源 $(date '+%Y-%m-%d %H:%M')" || echo "无文件变更，跳过提交推送"
+          git commit -m "自动测速更新直播源 $(date '+%Y-%m-%d %H:%M')" || echo "无文件变更，跳过推送"
           git push
