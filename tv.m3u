@@ -1,25 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="东森超视" delay="105",东森超视
+#EXTINF:-1 tvg-name="东森超视" delay="86",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="Now新闻" delay="468",Now新闻
-http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="大湾区卫视1" delay="487",大湾区卫视1
+#EXTINF:-1 tvg-name="TVB翡翠台" delay="345",TVB翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-name="大湾区卫视1" delay="450",大湾区卫视1
 http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 tvg-name="CCTV6电影" delay="525",CCTV6电影
-http://tpc.x3322.net:9901/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-name="CCTV4国际" delay="527",CCTV4国际
+#EXTINF:-1 tvg-name="CCTV4国际" delay="510",CCTV4国际
 http://tpc.x3322.net:9901/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-name="CCTV5+体育赛事" delay="531",CCTV5+体育赛事
-http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
-#EXTINF:-1 tvg-name="CCTV15音乐" delay="535",CCTV15音乐
-http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" delay="741",浙江少儿
-http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-#EXTINF:-1 tvg-name="CCTV14少儿" delay="755",CCTV14少儿
-http://tpc.x3322.net:9901/tsfile/live/0014_1.m3u8
-#EXTINF:-1 tvg-name="逃学威龙2" delay="781",逃学威龙2
+#EXTINF:-1 tvg-name="CCTV3综艺" delay="514",CCTV3综艺
+http://tpc.x3322.net:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9纪录" delay="516",CCTV9纪录
+http://tpc.x3322.net:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-name="逃学威龙2" delay="524",逃学威龙2
 https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
-#EXTINF:-1 tvg-name="CCTV13新闻" delay="937",CCTV13新闻
-http://tpc.x3322.net:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" delay="983",浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="Now新闻" delay="639",Now新闻
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="浙江少儿" delay="738",浙江少儿
+http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
+#EXTINF:-1 tvg-name="CCTV15音乐" delay="750",CCTV15音乐
+http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 tvg-name="CCTV10科教" delay="849",CCTV10科教
+http://tpc.x3322.net:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 tvg-name="CCTV2财经" delay="871",CCTV2财经
+http://tpc.x3322.net:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" delay="874",CCTV5+体育赛事
+http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
