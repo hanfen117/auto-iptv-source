@@ -1,33 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="东森超视" delay="126",东森超视
+#EXTINF:-1 tvg-name="东森超视" delay="24",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="TVB翡翠台" delay="197",TVB翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-name="Now新闻" delay="400",Now新闻
+#EXTINF:-1 tvg-name="Now新闻" delay="324",Now新闻
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="大湾区卫视1" delay="523",大湾区卫视1
+#EXTINF:-1 tvg-name="大湾区卫视1" delay="347",大湾区卫视1
 http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 tvg-name="CCTV15音乐" delay="552",CCTV15音乐
-http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
-#EXTINF:-1 tvg-name="CCTV13新闻" delay="553",CCTV13新闻
-http://tpc.x3322.net:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1 tvg-name="广东卫视" delay="563",广东卫视
-http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="安徽卫视" delay="602",安徽卫视
-http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="逃学威龙2" delay="654",逃学威龙2
+#EXTINF:-1 tvg-name="逃学威龙2" delay="370",逃学威龙2
 https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
-#EXTINF:-1 tvg-name="CCTV5体育" delay="826",CCTV5体育
-http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-name="CCTV9纪录" delay="834",CCTV9纪录
+#EXTINF:-1 tvg-name="TVB翡翠台" delay="389",TVB翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-name="CCTV13新闻" delay="414",CCTV13新闻
+http://tpc.x3322.net:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9纪录" delay="547",CCTV9纪录
 http://tpc.x3322.net:9901/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-name="CCTV6电影" delay="837",CCTV6电影
-http://tpc.x3322.net:9901/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-name="CCTV7国防军事" delay="843",CCTV7国防军事
-http://tpc.x3322.net:9901/tsfile/live/0007_1.m3u8
-#EXTINF:-1 tvg-name="CCTV4国际" delay="919",CCTV4国际
+#EXTINF:-1 tvg-name="CCTV12社会与法" delay="587",CCTV12社会与法
+http://tpc.x3322.net:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" delay="670",安徽卫视
+http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4国际" delay="731",CCTV4国际
 http://tpc.x3322.net:9901/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" delay="981",浙江少儿
-http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-#EXTINF:-1 tvg-name="CCTV3综艺" delay="990",CCTV3综艺
-http://tpc.x3322.net:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" delay="810",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" delay="866",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
+#EXTINF:-1 tvg-name="广东卫视" delay="952",广东卫视
+http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
