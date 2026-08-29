@@ -1,31 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="东森超视" delay="26",东森超视
+#EXTINF:-1 tvg-name="东森超视" delay="126",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视1" delay="428",大湾区卫视1
-http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 tvg-name="CCTV3综艺" delay="464",CCTV3综艺
-http://tpc.x3322.net:9901/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-name="CCTV4国际" delay="466",CCTV4国际
-http://tpc.x3322.net:9901/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-name="CCTV15音乐" delay="467",CCTV15音乐
-http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
-#EXTINF:-1 tvg-name="CCTV5体育" delay="470",CCTV5体育
-http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-name="CCTV5+体育赛事" delay="470",CCTV5+体育赛事
-http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
-#EXTINF:-1 tvg-name="CCTV13新闻" delay="471",CCTV13新闻
-http://tpc.x3322.net:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1 tvg-name="广东卫视" delay="479",广东卫视
-http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="逃学威龙2" delay="614",逃学威龙2
+#EXTINF:-1 tvg-name="逃学威龙2" delay="411",逃学威龙2
 https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
-#EXTINF:-1 tvg-name="Now新闻" delay="624",Now新闻
+#EXTINF:-1 tvg-name="Now新闻" delay="460",Now新闻
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="浙江少儿" delay="640",浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" delay="866",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" delay="907",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-#EXTINF:-1 tvg-name="浙江少儿" delay="993",浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
+#EXTINF:-1 tvg-name="大湾区卫视1" delay="517",大湾区卫视1
+http://222.128.55.152:9080/live/dwq.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" delay="549",安徽卫视
+http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14少儿" delay="550",CCTV14少儿
+http://tpc.x3322.net:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 tvg-name="广东卫视" delay="555",广东卫视
+http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV13新闻" delay="570",CCTV13新闻
+http://tpc.x3322.net:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9纪录" delay="805",CCTV9纪录
+http://tpc.x3322.net:9901/tsfile/live/0009_1.m3u8
