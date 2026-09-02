@@ -1,17 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Now新闻" delay="441",Now新闻
-http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="东森超视" delay="446",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视1" delay="517",大湾区卫视1
+#EXTINF:-1 tvg-name="逃学威龙2" delay="320",逃学威龙2
+https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
+#EXTINF:-1 tvg-name="大湾区卫视1" delay="413",大湾区卫视1
 http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 tvg-name="CCTV8电视剧" delay="548",CCTV8电视剧
-http://tpc.x3322.net:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-name="CCTV5体育" delay="555",CCTV5体育
-http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-name="TVB翡翠台" delay="575",TVB翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-name="浙江少儿" delay="577",浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" delay="413",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" delay="456",安徽卫视
+http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10科教" delay="461",CCTV10科教
+http://tpc.x3322.net:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 tvg-name="广东卫视" delay="477",广东卫视
+http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江少儿" delay="617",浙江少儿
 http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-#EXTINF:-1 tvg-name="CCTV3综艺" delay="820",CCTV3综艺
-http://tpc.x3322.net:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" delay="646",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="Now新闻" delay="675",Now新闻
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="浙江少儿" delay="717",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+#EXTINF:-1 tvg-name="浙江少儿" delay="751",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
+#EXTINF:-1 tvg-name="CCTV13新闻" delay="765",CCTV13新闻
+http://tpc.x3322.net:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 tvg-name="CCTV12社会与法" delay="872",CCTV12社会与法
+http://tpc.x3322.net:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 tvg-name="TVB翡翠台" delay="881",TVB翡翠台
+http://r.jdshipin.com/62WM7
