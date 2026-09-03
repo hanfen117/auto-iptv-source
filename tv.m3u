@@ -1,17 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="大湾区卫视1" delay="519",大湾区卫视1
-http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 tvg-name="广东卫视" delay="554",广东卫视
-http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="安徽卫视" delay="614",安徽卫视
-http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="逃学威龙2" delay="693",逃学威龙2
+#EXTINF:-1 tvg-name="逃学威龙2" delay="351",逃学威龙2
 https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
-#EXTINF:-1 tvg-name="Now新闻" delay="704",Now新闻
+#EXTINF:-1 tvg-name="大湾区卫视1" delay="413",大湾区卫视1
+http://222.128.55.152:9080/live/dwq.m3u8
+#EXTINF:-1 tvg-name="广东卫视" delay="462",广东卫视
+http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视" delay="463",安徽卫视
+http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="Now新闻" delay="587",Now新闻
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="CCTV5体育" delay="751",CCTV5体育
-http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" delay="896",浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" delay="629",浙江少儿
 http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-#EXTINF:-1 tvg-name="CCTV4国际" delay="925",CCTV4国际
-http://tpc.x3322.net:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" delay="660",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV10科教" delay="985",CCTV10科教
+http://tpc.x3322.net:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" delay="995",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
