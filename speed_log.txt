@@ -1,167 +1,165 @@
-[2026-09-24 16:01:06] 原始源去重后待检测总数：140，重复链接过滤：6
-[2026-09-24 16:01:06] ✅ 有效 | 大湾区卫视1 | 延迟:565ms | http://222.128.55.152:9080/live/dwq.m3u8
-[2026-09-24 16:01:06] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东珠江6
-[2026-09-24 16:01:06] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东珠江超清5
-[2026-09-24 16:01:06] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东珠江3
-[2026-09-24 16:01:07] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东珠江高清4
-[2026-09-24 16:01:08] ⏱️ 延迟过高(1934ms>1000) | 大湾区卫视3
-[2026-09-24 16:01:08] ⏱️ 延迟过高(1930ms>1000) | 广州新闻
-[2026-09-24 16:01:08] ⏱️ 延迟过高(1933ms>1000) | 南国都市
-[2026-09-24 16:01:08] ⏱️ 延迟过高(1382ms>1000) | 南国都市
-[2026-09-24 16:01:08] ⏱️ 延迟过高(1951ms>1000) | 广州综合
-[2026-09-24 16:01:08] ⏱️ 延迟过高(2203ms>1000) | 广东珠江2
-[2026-09-24 16:01:08] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东新闻
-[2026-09-24 16:01:08] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东新闻高清
-[2026-09-24 16:01:08] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东民生
-[2026-09-24 16:01:08] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东体育
-[2026-09-24 16:01:08] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东体育（深圳）
-[2026-09-24 16:01:08] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东体育超清
-[2026-09-24 16:01:09] ⏱️ 延迟过高(2903ms>1000) | 广州综合
-[2026-09-24 16:01:09] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东国际
-[2026-09-24 16:01:09] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 大湾区卫视
-[2026-09-24 16:01:09] ⏱️ 延迟过高(2688ms>1000) | 东莞综合
-[2026-09-24 16:01:09] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 大湾区卫视
-[2026-09-24 16:01:09] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 大湾区卫视高清
-[2026-09-24 16:01:09] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 经济科教高清
-[2026-09-24 16:01:09] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东体育高清-测试
-[2026-09-24 16:01:09] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东影视
-[2026-09-24 16:01:09] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 经济科教
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 凤凰中文
-[2026-09-24 16:01:10] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东影视高清
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 凤凰资讯
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 凤凰香港
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | TVB翡翠台
-[2026-09-24 16:01:10] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 经济科教超清
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 无线新闻台
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | TVB明珠台
-[2026-09-24 16:01:10] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东民生高清
-[2026-09-24 16:01:10] ⏱️ 延迟过高(3552ms>1000) | 东莞生活资讯
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | PopC电影
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | TVB娱乐新闻
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 美亚电影台
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 千禧经典
-[2026-09-24 16:01:10] ❌ 状态码异常404 | 广东体育2
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 亚洲剧台
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | SUPER FREE
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 华语剧台
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 黄金华剧台
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 戏曲台
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 黄金翡翠台
-[2026-09-24 16:01:10] ❌ 状态码异常403 | TVB翡翠台
-[2026-09-24 16:01:10] ✅ 有效 | 浙江少儿 | 延迟:786ms | http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | HOY 76
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 无线跑马台
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 天映频道
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 天映经典
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | HOY 78
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | HOY 77
-[2026-09-24 16:01:10] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | ROCK综艺娱乐
-[2026-09-24 16:01:10] ✅ 有效 | TVB翡翠台 | 延迟:723ms | http://r.jdshipin.com/62WM7
-[2026-09-24 16:01:10] ❌ 状态码异常403 | PopC电影
-[2026-09-24 16:01:10] ✅ 有效 | 浙江少儿 | 延迟:961ms | http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-[2026-09-24 16:01:10] ⏱️ 延迟过高(1293ms>1000) | 浙江少儿
-[2026-09-24 16:01:11] ❌ 状态码异常403 | 天映经典
-[2026-09-24 16:01:11] ⏱️ 延迟过高(1227ms>1000) | 浙江少儿
-[2026-09-24 16:01:11] ⏱️ 延迟过高(1451ms>1000) | 浙江少儿
-[2026-09-24 16:01:18] ⏳ 超时重试0/1 | 番禺电视
-[2026-09-24 16:01:20] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | 凤凰中文
-[2026-09-24 16:01:20] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | 凤凰资讯
-[2026-09-24 16:01:20] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | 凤凰香港
-[2026-09-24 16:01:20] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | 翡翠台
-[2026-09-24 16:01:20] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | 翡翠台4K
-[2026-09-24 16:01:20] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | 无线新闻
-[2026-09-24 16:01:20] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | Now新闻台
-[2026-09-24 16:01:20] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | TVB Plus
-[2026-09-24 16:01:20] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | 翡翠台
-[2026-09-24 16:01:20] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | HOY77
-[2026-09-24 16:01:20] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | HOY76
-[2026-09-24 16:01:20] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | HOY78
-[2026-09-24 16:01:20] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | TVB Plus
-[2026-09-24 16:01:21] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | 明珠台
-[2026-09-24 16:01:21] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | 无线新闻台
-[2026-09-24 16:01:21] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | ViuTV
-[2026-09-24 16:01:21] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | ViuTVsix
-[2026-09-24 16:01:21] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | Now新聞台
-[2026-09-24 16:01:21] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | 明珠台
-[2026-09-24 16:01:21] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | TVB星河
-[2026-09-24 16:01:21] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | TVB功夫
-[2026-09-24 16:01:21] 💥 请求异常 HTTPSConnectionPool(host='cdn6.101.qzz.io', port=443): Max r | 凤凰资讯
-[2026-09-24 16:01:21] 💥 请求异常 HTTPSConnectionPool(host='cdn6.101.qzz.io', port=443): Max r | 凤凰中文
-[2026-09-24 16:01:21] 💥 请求异常 HTTPSConnectionPool(host='cdn6.101.qzz.io', port=443): Max r | 凤凰香港
-[2026-09-24 16:01:21] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | Now直播台
-[2026-09-24 16:01:21] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | Now財經台
-[2026-09-24 16:01:21] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | Now Sports 精選
-[2026-09-24 16:01:21] ✅ 有效 | Now新闻 | 延迟:555ms | http://cdn.163189.xyz/163189/now
-[2026-09-24 16:01:21] ❌ 状态码异常409 | 明珠台
-[2026-09-24 16:01:21] ❌ 状态码异常409 | 翡翠台
-[2026-09-24 16:01:21] ✅ 有效 | 莲花卫视 | 延迟:537ms | http://8.138.7.223/tv/lotustv.m3u8
-[2026-09-24 16:01:21] ✅ 有效 | 逃学威龙2 | 延迟:564ms | https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
-[2026-09-24 16:01:21] ✅ 有效 | 东森超视 | 延迟:130ms | http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-[2026-09-24 16:01:21] ❌ 状态码异常501 | 无线新闻
-[2026-09-24 16:01:24] ⏱️ 延迟过高(3154ms>1000) | CCTV6电影
-[2026-09-24 16:01:25] ⏱️ 延迟过高(3292ms>1000) | CCTV3综艺
-[2026-09-24 16:01:25] ⏱️ 延迟过高(3194ms>1000) | CCTV5体育
-[2026-09-24 16:01:28] ⏱️ 延迟过高(3182ms>1000) | CCTV10科教
-[2026-09-24 16:01:28] 💥 请求异常 ('Connection aborted.', ConnectionResetError(104, 'Connectio | 凤凰电影
-[2026-09-24 16:01:30] ⏳ 超时重试0/1 | 星空音乐
-[2026-09-24 16:01:30] ⏳ 超时重试0/1 | 星空电影频高3
-[2026-09-24 16:01:32] ⏳ 超时重试1/1 | 番禺电视
-[2026-09-24 16:01:32] ⏱️ 延迟过高(4096ms>1000) | CCTV12社会与法
-[2026-09-24 16:01:32] ⏱️ 延迟过高(3833ms>1000) | CCTV13新闻
-[2026-09-24 16:01:32] ⏳ 超时重试0/1 | CCTV7国防军事
-[2026-09-24 16:01:32] ⏳ 超时重试0/1 | CCTV4国际
-[2026-09-24 16:01:32] ⏳ 超时重试0/1 | CCTV2财经
-[2026-09-24 16:01:32] ⏳ 超时重试0/1 | 星空卫视
-[2026-09-24 16:01:33] 💥 请求异常 ('Connection aborted.', ConnectionResetError(104, 'Connectio | 凤凰电影频标2
-[2026-09-24 16:01:34] ❌ 状态码异常404 | 东南卫视
-[2026-09-24 16:01:35] ❌ 状态码异常404 | 浙江卫视
-[2026-09-24 16:01:35] ⏳ 超时重试0/1 | CCTV9纪录
-[2026-09-24 16:01:35] ⏳ 超时重试0/1 | CCTV8电视剧
-[2026-09-24 16:01:36] ⏱️ 延迟过高(3422ms>1000) | CCTV4国际
-[2026-09-24 16:01:36] ❌ 状态码异常404 | 东方卫视
-[2026-09-24 16:01:36] ⏱️ 延迟过高(4270ms>1000) | CCTV7国防军事
-[2026-09-24 16:01:37] ❌ 状态码异常404 | 湖南卫视
-[2026-09-24 16:01:37] ❌ 状态码异常404 | 江苏卫视
-[2026-09-24 16:01:38] ❌ 状态码异常404 | 北京卫视
-[2026-09-24 16:01:38] ⏱️ 延迟过高(2821ms>1000) | CCTV8电视剧
-[2026-09-24 16:01:38] ⏱️ 延迟过高(2823ms>1000) | CCTV9纪录
-[2026-09-24 16:01:38] ❌ 状态码异常404 | 安徽卫视
-[2026-09-24 16:01:39] ❌ 状态码异常404 | 重庆卫视
-[2026-09-24 16:01:39] ❌ 状态码异常404 | 贵州卫视
-[2026-09-24 16:01:39] ❌ 状态码异常404 | 四川卫视
-[2026-09-24 16:01:39] ❌ 状态码异常404 | 广东卫视
-[2026-09-24 16:01:39] ⏳ 超时重试1/1 | 星空电影频高3
-[2026-09-24 16:01:39] ❌ 状态码异常404 | 天津卫视
-[2026-09-24 16:01:40] ⏳ 超时重试1/1 | 星空音乐
-[2026-09-24 16:01:40] ⏳ 超时重试0/1 | CCTV5+体育赛事
-[2026-09-24 16:01:40] ⏳ 超时重试0/1 | CCTV15音乐
-[2026-09-24 16:01:40] ⏳ 超时重试0/1 | CCTV14少儿
-[2026-09-24 16:01:41] ❌ 状态码异常404 | 河北卫视
-[2026-09-24 16:01:41] ❌ 状态码异常404 | 辽宁卫视
-[2026-09-24 16:01:41] ❌ 状态码异常404 | 湖北卫视
-[2026-09-24 16:01:41] ❌ 状态码异常404 | 江西卫视
-[2026-09-24 16:01:41] ❌ 状态码异常404 | 山东卫视
-[2026-09-24 16:01:41] ❌ 状态码异常404 | 黑龙江卫视
-[2026-09-24 16:01:41] ⏳ 超时重试1/1 | 星空卫视
-[2026-09-24 16:01:41] ❌ 状态码异常404 | 河南卫视
-[2026-09-24 16:01:41] ❌ 状态码异常404 | 深圳卫视
-[2026-09-24 16:01:43] ⏳ 超时重试1/1 | CCTV2财经
-[2026-09-24 16:01:49] ⏳ 超时重试0/1 | 安徽卫视
-[2026-09-24 16:01:49] ⏳ 超时重试0/1 | 广东卫视
-[2026-09-24 16:01:51] ⏳ 超时重试1/1 | CCTV5+体育赛事
-[2026-09-24 16:01:51] ⏳ 超时重试1/1 | CCTV14少儿
-[2026-09-24 16:01:51] ⏳ 超时重试1/1 | CCTV15音乐
-[2026-09-24 16:01:57] ⏳ 超时重试1/1 | 安徽卫视
-[2026-09-24 16:01:58] ⏳ 超时重试1/1 | 广东卫视
-[2026-09-24 16:01:59] 
+[2026-09-24 20:51:34] 原始源去重后待检测总数：140，重复链接过滤：6
+[2026-09-24 20:51:34] ❌ 状态码异常404 | 广东体育2
+[2026-09-24 20:51:34] ✅ 有效 | 大湾区卫视1 | 延迟:432ms | http://222.128.55.152:9080/live/dwq.m3u8
+[2026-09-24 20:51:34] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东珠江超清5
+[2026-09-24 20:51:34] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东珠江高清4
+[2026-09-24 20:51:34] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东珠江3
+[2026-09-24 20:51:34] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东珠江6
+[2026-09-24 20:51:35] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东新闻
+[2026-09-24 20:51:35] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东新闻高清
+[2026-09-24 20:51:35] ⏱️ 延迟过高(1210ms>1000) | 大湾区卫视3
+[2026-09-24 20:51:35] ⏱️ 延迟过高(1225ms>1000) | 广东珠江2
+[2026-09-24 20:51:35] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东民生高清
+[2026-09-24 20:51:35] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东民生
+[2026-09-24 20:51:35] ⏱️ 延迟过高(1489ms>1000) | 广州综合
+[2026-09-24 20:51:35] ⏱️ 延迟过高(1495ms>1000) | 广州综合
+[2026-09-24 20:51:35] ⏱️ 延迟过高(1529ms>1000) | 广州新闻
+[2026-09-24 20:51:35] ⏱️ 延迟过高(1570ms>1000) | 南国都市
+[2026-09-24 20:51:35] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东体育
+[2026-09-24 20:51:35] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东体育（深圳）
+[2026-09-24 20:51:35] ⏱️ 延迟过高(1229ms>1000) | 南国都市
+[2026-09-24 20:51:35] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东体育高清-测试
+[2026-09-24 20:51:35] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东体育超清
+[2026-09-24 20:51:36] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东国际
+[2026-09-24 20:51:36] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 经济科教
+[2026-09-24 20:51:36] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 经济科教高清
+[2026-09-24 20:51:36] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 经济科教超清
+[2026-09-24 20:51:36] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 大湾区卫视
+[2026-09-24 20:51:36] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 大湾区卫视
+[2026-09-24 20:51:36] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 大湾区卫视高清
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 凤凰中文
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 凤凰资讯
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 凤凰香港
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | TVB翡翠台
+[2026-09-24 20:51:36] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东影视
+[2026-09-24 20:51:36] 💥 请求异常 ('Connection aborted.', RemoteDisconnected('Remote end close | 广东影视高清
+[2026-09-24 20:51:36] ⏱️ 延迟过高(1639ms>1000) | 东莞综合
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 无线新闻台
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | TVB明珠台
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | PopC电影
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | TVB娱乐新闻
+[2026-09-24 20:51:36] ⏱️ 延迟过高(1697ms>1000) | 东莞生活资讯
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 千禧经典
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 美亚电影台
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 亚洲剧台
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | SUPER FREE
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 华语剧台
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 黄金华剧台
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 黄金翡翠台
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 戏曲台
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 天映经典
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 天映频道
+[2026-09-24 20:51:36] ❌ 状态码异常403 | TVB翡翠台
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | 无线跑马台
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | HOY 76
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | HOY 77
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | ROCK综艺娱乐
+[2026-09-24 20:51:36] 💥 请求异常 HTTPConnectionPool(host='pull-vivek.speedws.com', port=80):  | HOY 78
+[2026-09-24 20:51:36] ❌ 状态码异常403 | PopC电影
+[2026-09-24 20:51:36] ✅ 有效 | TVB翡翠台 | 延迟:693ms | http://r.jdshipin.com/62WM7
+[2026-09-24 20:51:36] ❌ 状态码异常403 | 天映经典
+[2026-09-24 20:51:37] ⏱️ 延迟过高(1059ms>1000) | 浙江少儿
+[2026-09-24 20:51:37] ⏱️ 延迟过高(1182ms>1000) | 浙江少儿
+[2026-09-24 20:51:37] ⏱️ 延迟过高(1307ms>1000) | 浙江少儿
+[2026-09-24 20:51:37] ⏱️ 延迟过高(1346ms>1000) | 浙江少儿
+[2026-09-24 20:51:43] ⏳ 超时重试0/1 | 番禺电视
+[2026-09-24 20:51:46] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | 凤凰中文
+[2026-09-24 20:51:46] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | 凤凰香港
+[2026-09-24 20:51:46] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | 凤凰资讯
+[2026-09-24 20:51:46] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | 翡翠台
+[2026-09-24 20:51:46] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | 翡翠台4K
+[2026-09-24 20:51:47] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | 无线新闻
+[2026-09-24 20:51:47] 💥 请求异常 HTTPSConnectionPool(host='cdn6.101.qzz.io', port=443): Max r | 凤凰资讯
+[2026-09-24 20:51:47] 💥 请求异常 HTTPSConnectionPool(host='cdn6.101.qzz.io', port=443): Max r | 凤凰中文
+[2026-09-24 20:51:47] 💥 请求异常 HTTPSConnectionPool(host='cdn6.101.qzz.io', port=443): Max r | 凤凰香港
+[2026-09-24 20:51:47] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | Now新闻台
+[2026-09-24 20:51:47] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | TVB Plus
+[2026-09-24 20:51:47] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | 无线新闻台
+[2026-09-24 20:51:47] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | HOY76
+[2026-09-24 20:51:47] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | HOY77
+[2026-09-24 20:51:47] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | HOY78
+[2026-09-24 20:51:47] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | TVB Plus
+[2026-09-24 20:51:47] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | 翡翠台
+[2026-09-24 20:51:47] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | TVB星河
+[2026-09-24 20:51:47] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | 明珠台
+[2026-09-24 20:51:47] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | ViuTVsix
+[2026-09-24 20:51:47] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | Now新聞台
+[2026-09-24 20:51:47] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | 明珠台
+[2026-09-24 20:51:47] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | Now財經台
+[2026-09-24 20:51:47] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | Now Sports 精選
+[2026-09-24 20:51:47] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | Now直播台
+[2026-09-24 20:51:47] 💥 请求异常 HTTPConnectionPool(host='hls.168.us.kg', port=80): Max retri | ViuTV
+[2026-09-24 20:51:47] ❌ 状态码异常501 | 无线新闻
+[2026-09-24 20:51:48] ✅ 有效 | Now新闻 | 延迟:733ms | http://cdn.163189.xyz/163189/now
+[2026-09-24 20:51:48] ❌ 状态码异常409 | 翡翠台
+[2026-09-24 20:51:48] ❌ 状态码异常409 | 明珠台
+[2026-09-24 20:51:48] ✅ 有效 | 东森超视 | 延迟:67ms | http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+[2026-09-24 20:51:48] ✅ 有效 | 莲花卫视 | 延迟:396ms | http://8.138.7.223/tv/lotustv.m3u8
+[2026-09-24 20:51:48] ✅ 有效 | 逃学威龙2 | 延迟:563ms | https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
+[2026-09-24 20:51:49] ⏱️ 延迟过高(1143ms>1000) | CCTV2财经
+[2026-09-24 20:51:49] ⏱️ 延迟过高(1031ms>1000) | CCTV4国际
+[2026-09-24 20:51:49] ⏱️ 延迟过高(1099ms>1000) | CCTV3综艺
+[2026-09-24 20:51:49] ✅ 有效 | CCTV6电影 | 延迟:492ms | http://tpc.x3322.net:9901/tsfile/live/0006_1.m3u8
+[2026-09-24 20:51:50] ✅ 有效 | CCTV8电视剧 | 延迟:710ms | http://tpc.x3322.net:9901/tsfile/live/0008_1.m3u8
+[2026-09-24 20:51:50] ✅ 有效 | CCTV9纪录 | 延迟:491ms | http://tpc.x3322.net:9901/tsfile/live/0009_1.m3u8
+[2026-09-24 20:51:50] ✅ 有效 | CCTV10科教 | 延迟:485ms | http://tpc.x3322.net:9901/tsfile/live/0010_1.m3u8
+[2026-09-24 20:51:51] ✅ 有效 | CCTV13新闻 | 延迟:482ms | http://tpc.x3322.net:9901/tsfile/live/0013_1.m3u8
+[2026-09-24 20:51:52] ⏱️ 延迟过高(1110ms>1000) | CCTV14少儿
+[2026-09-24 20:51:52] ⏳ 超时重试1/1 | 番禺电视
+[2026-09-24 20:51:52] ✅ 有效 | CCTV15音乐 | 延迟:491ms | http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
+[2026-09-24 20:51:53] ✅ 有效 | CCTV5+体育赛事 | 延迟:485ms | http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
+[2026-09-24 20:51:53] ❌ 状态码异常404 | 东南卫视
+[2026-09-24 20:51:54] ❌ 状态码异常404 | 浙江卫视
+[2026-09-24 20:51:54] ❌ 状态码异常404 | 东方卫视
+[2026-09-24 20:51:55] ❌ 状态码异常404 | 湖南卫视
+[2026-09-24 20:51:55] ❌ 状态码异常404 | 安徽卫视
+[2026-09-24 20:51:55] ⏳ 超时重试0/1 | 凤凰电影
+[2026-09-24 20:51:55] ⏳ 超时重试0/1 | 星空电影频高3
+[2026-09-24 20:51:55] ❌ 状态码异常404 | 江苏卫视
+[2026-09-24 20:51:56] ❌ 状态码异常404 | 北京卫视
+[2026-09-24 20:51:56] 💥 请求异常 HTTPSConnectionPool(host='mgev.188766.xyz', port=443): Max r | TVB功夫
+[2026-09-24 20:51:56] ⏳ 超时重试0/1 | 凤凰电影频标2
+[2026-09-24 20:51:56] ⏳ 超时重试0/1 | CCTV5体育
+[2026-09-24 20:51:56] ❌ 状态码异常404 | 重庆卫视
+[2026-09-24 20:51:56] ❌ 状态码异常404 | 贵州卫视
+[2026-09-24 20:51:56] ❌ 状态码异常404 | 四川卫视
+[2026-09-24 20:51:57] ⏳ 超时重试0/1 | CCTV7国防军事
+[2026-09-24 20:51:57] ❌ 状态码异常404 | 广东卫视
+[2026-09-24 20:51:57] ❌ 状态码异常404 | 天津卫视
+[2026-09-24 20:51:57] ⏳ 超时重试0/1 | 星空音乐
+[2026-09-24 20:51:57] ❌ 状态码异常404 | 河北卫视
+[2026-09-24 20:51:57] ✅ 有效 | CCTV5体育 | 延迟:705ms | http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
+[2026-09-24 20:51:58] ✅ 有效 | CCTV7国防军事 | 延迟:487ms | http://tpc.x3322.net:9901/tsfile/live/0007_1.m3u8
+[2026-09-24 20:51:58] ❌ 状态码异常404 | 黑龙江卫视
+[2026-09-24 20:51:58] ⏳ 超时重试0/1 | CCTV12社会与法
+[2026-09-24 20:51:58] ❌ 状态码异常404 | 山东卫视
+[2026-09-24 20:51:58] ❌ 状态码异常404 | 湖北卫视
+[2026-09-24 20:51:58] ❌ 状态码异常404 | 辽宁卫视
+[2026-09-24 20:51:58] ❌ 状态码异常404 | 江西卫视
+[2026-09-24 20:51:58] ⏳ 超时重试0/1 | 星空卫视
+[2026-09-24 20:51:58] ❌ 状态码异常404 | 河南卫视
+[2026-09-24 20:51:59] ✅ 有效 | CCTV12社会与法 | 延迟:493ms | http://tpc.x3322.net:9901/tsfile/live/0012_1.m3u8
+[2026-09-24 20:51:59] ❌ 状态码异常404 | 深圳卫视
+[2026-09-24 20:52:03] ⏳ 超时重试1/1 | 凤凰电影
+[2026-09-24 20:52:04] ⏳ 超时重试1/1 | 星空电影频高3
+[2026-09-24 20:52:05] ⏳ 超时重试1/1 | 凤凰电影频标2
+[2026-09-24 20:52:06] ⏳ 超时重试1/1 | 星空音乐
+[2026-09-24 20:52:06] ⏳ 超时重试0/1 | 安徽卫视
+[2026-09-24 20:52:06] ⏳ 超时重试0/1 | 广东卫视
+[2026-09-24 20:52:07] ⏳ 超时重试1/1 | 星空卫视
+[2026-09-24 20:52:15] ⏱️ 延迟过高(8055ms>1000) | 广东卫视
+[2026-09-24 20:52:15] ⏱️ 延迟过高(8121ms>1000) | 安徽卫视
+[2026-09-24 20:52:40] ⏳ 超时重试0/1 | 浙江少儿
+[2026-09-24 20:52:49] ⏳ 超时重试1/1 | 浙江少儿
+[2026-09-24 20:52:49] 
 ========== 测速统计汇总 ==========
-[2026-09-24 16:01:59] 待检测总数: 140
-[2026-09-24 16:01:59] 重复链接过滤: 6
-[2026-09-24 16:01:59] 有效可用频道: 8
-[2026-09-24 16:01:59] 延迟超标丢弃: 22
-[2026-09-24 16:01:59] 连接超时数量: 24
-[2026-09-24 16:01:59] 请求异常失效: 73
-[2026-09-24 16:01:59] ==================================
+[2026-09-24 20:52:49] 待检测总数: 140
+[2026-09-24 20:52:49] 重复链接过滤: 6
+[2026-09-24 20:52:49] 有效可用频道: 16
+[2026-09-24 20:52:49] 延迟超标丢弃: 19
+[2026-09-24 20:52:49] 连接超时数量: 19
+[2026-09-24 20:52:49] 请求异常失效: 71
+[2026-09-24 20:52:49] ==================================
 
-[2026-09-24 16:01:59] ✅ M3U文件 tv.m3u 生成完成
-[2026-09-24 16:01:59] 测速任务全部结束！
+[2026-09-24 20:52:49] ✅ M3U文件 tv.m3u 生成完成
+[2026-09-24 20:52:49] 测速任务全部结束！
