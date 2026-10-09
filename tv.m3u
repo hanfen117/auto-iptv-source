@@ -1,31 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="东森超视" delay="124",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="Now新闻" delay="330",Now新闻
-http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="大湾区卫视1" delay="425",大湾区卫视1
-http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 tvg-name="CCTV12社会与法" delay="480",CCTV12社会与法
-http://tpc.x3322.net:9901/tsfile/live/0012_1.m3u8
-#EXTINF:-1 tvg-name="TVB翡翠台" delay="578",TVB翡翠台
+#EXTINF:-1 tvg-name="TVB翡翠台" delay="325",TVB翡翠台
 http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-name="逃学威龙2" delay="597",逃学威龙2
-https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
-#EXTINF:-1 tvg-name="浙江少儿" delay="634",浙江少儿
-http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-#EXTINF:-1 tvg-name="CCTV8电视剧" delay="663",CCTV8电视剧
-http://tpc.x3322.net:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-name="CCTV13新闻" delay="763",CCTV13新闻
-http://tpc.x3322.net:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1 tvg-name="CCTV10科教" delay="808",CCTV10科教
+#EXTINF:-1 tvg-name="东森超视" delay="393",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 tvg-name="Now新闻" delay="398",Now新闻
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="大湾区卫视1" delay="426",大湾区卫视1
+http://222.128.55.152:9080/live/dwq.m3u8
+#EXTINF:-1 tvg-name="CCTV10科教" delay="464",CCTV10科教
 http://tpc.x3322.net:9901/tsfile/live/0010_1.m3u8
-#EXTINF:-1 tvg-name="CCTV9纪录" delay="836",CCTV9纪录
-http://tpc.x3322.net:9901/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-name="CCTV5体育" delay="875",CCTV5体育
-http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-name="CCTV7国防军事" delay="909",CCTV7国防军事
-http://tpc.x3322.net:9901/tsfile/live/0007_1.m3u8
-#EXTINF:-1 tvg-name="CCTV6电影" delay="921",CCTV6电影
+#EXTINF:-1 tvg-name="CCTV6电影" delay="473",CCTV6电影
 http://tpc.x3322.net:9901/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-name="CCTV4国际" delay="926",CCTV4国际
+#EXTINF:-1 tvg-name="逃学威龙2" delay="510",逃学威龙2
+https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
+#EXTINF:-1 tvg-name="CCTV3综艺" delay="819",CCTV3综艺
+http://tpc.x3322.net:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-name="CCTV4国际" delay="998",CCTV4国际
 http://tpc.x3322.net:9901/tsfile/live/0004_1.m3u8
